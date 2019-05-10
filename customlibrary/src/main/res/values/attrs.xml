@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScrollNoticeView">
+        <attr name="textcolor" format="color|reference"/>
+        <attr name="textsize" format="dimension"/>
+        <attr name="animtime">
+            <flag name="slow" value="2000"/>
+            <flag name="moderate" value="1000"/>
+            <flag name="fast" value="500"/>
+        </attr>
+        <attr name="durationtime">
+            <flag name="slow" value="10000"/>
+            <flag name="moderate" value="5000"/>
+            <flag name="fast" value="3000"/>
+        </attr>
+    </declare-styleable>
+</resources>
