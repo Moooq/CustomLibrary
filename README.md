@@ -16,4 +16,5 @@ Step 2. Add the dependency
 	        implementation 'com.github.Moooq:CustomLibrary:v1.0.0'
 	}
   
-  ScrollNoticeView 垂直滚动的通告栏
+  ScrollNoticeView 垂直滚动的通告栏;
+  ProgressSuccessFailedView 仿支付宝支付动画;
